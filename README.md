@@ -22,4 +22,4 @@ Este repositório marca o meu retorno aos estudos práticos e foca intensamente 
 
 1. Clone este repositório:
    ```bash
-   git clone 
+   git clone https://github.com/tamaraferreira-dev/Mentalista-o-jogo.git
